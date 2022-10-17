@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MySampleTestSDK"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "Test description of MySampleTestSDK."
   spec.description  = "This description is used to generate tags and improve search results"
   spec.homepage     = "https://github.com/arvind980/MySampleTestSDK"
