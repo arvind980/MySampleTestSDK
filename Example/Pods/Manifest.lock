@@ -1,0 +1,16 @@
+PODS:
+  - MySampleTestSDK (1.0.0)
+
+DEPENDENCIES:
+  - MySampleTestSDK (from `../MySampleTestSDK`)
+
+EXTERNAL SOURCES:
+  MySampleTestSDK:
+    :path: "../MySampleTestSDK"
+
+SPEC CHECKSUMS:
+  MySampleTestSDK: 916eff8248dc52aacab188a5ce1da8600e868562
+
+PODFILE CHECKSUM: 6814833f4862b2e4872a3b3f7858176fcec3dba7
+
+COCOAPODS: 1.11.3
