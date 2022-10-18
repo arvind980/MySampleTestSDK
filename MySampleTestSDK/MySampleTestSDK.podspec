@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MySampleTestSDK"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "Test description of MySampleTestSDK."
   spec.description  = "This description is used to generate tags and improve search results"
   spec.homepage     = "https://github.com/arvind980/MySampleTestSDK"
@@ -14,5 +14,5 @@ Pod::Spec.new do |spec|
 
   spec.source_files  = "MySampleTestSDK/**/*.{swift}"
   spec.swift_version = "5.0"
-
+  spec.dependency  'Alamofire'
 end
